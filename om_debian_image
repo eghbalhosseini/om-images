@@ -1,0 +1,5 @@
+BootStrap: Docker
+From: debian:8.5
+%post
+   mkdir /om
+   mkdir /cm
